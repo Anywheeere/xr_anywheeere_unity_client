@@ -18,6 +18,8 @@ EditorBuildSettings:
     path: Assets/Scenes/main/03_CesiumSanFrancisco_main.unity
     guid: f19edcba1f23d524a9cf3a04fade3bb2
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f83a4153c6da1eb49898c30ea6f6b0e9,
+      type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 264e5cd962a27ab40b75452220c81b6e,
       type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 04b56a2ecaa0a254280e2d41c3f58bbf,
